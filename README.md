@@ -8,3 +8,7 @@ Downloaded [Banglore House Price Dataset](https://www.kaggle.com/datasets/sanjay
 - Removed the colmuns or fetaures that didnt contribute to final target columns.
 - Checked if there are any missing values, since there was fewer missing values and larger amount of datasets, removed those rows from dataset.
 - Some errors in the dataset where rectified according to their respective correct steps.
+
+## Step 3: Feature Engineering
+- Introduced new column 'price_per_sqft' which is imporatnt for price prediction with respect to locations.
+- There were 1304 different locations in dataset, reduced that to 242 columns by mentioning that locations that has less than 10 datapoints as 'other'. Which lead us out of "dimensionality curse"
