@@ -1,7 +1,7 @@
 # ML-DS_project_Real_Estate_Price_prediction
 
 ## Step 1: Downloading Dataset
-Downloaded Banglore House Price Dataset from kaggle. Import needed libraries for working with dataset.
+Downloaded [Banglore House Price Dataset](https://www.kaggle.com/datasets/sanjay3454chauhan/bangluru-house-dataset) from kaggle. Import needed libraries for working with dataset.
 
 ## Step 2: Data Cleaning
 - Read the data using Pandas.
